@@ -1,2 +1,3 @@
-# Data-Dazzle-30-Days-of-Visual-Veracity
- 📊 Viz30: 30 Days of Data Art 📈  Embark on my 30-day journey through data visualization! Join me as I explore graphs, charts, and insights. This repository is packed with tutorials, challenges, and inspiration to level up my skills. Let's turn data into art together! 💪✨
+# Visualize30: A Personal Journey through Data in 30 Days 📊
+
+Welcome to Visualize30, where I embark on a 30-day adventure into the world of data visualization! 🚀 Join me as I explore the power of graphs, charts, and visualizations to unlock insights and tell compelling stories with data. 📊💡 Whether you're a seasoned data wizard or just starting your journey, this repository is my go-to resource for inspiration, tutorials, and challenges to level up my visualization skills. 🌟 Let's turn data into art and insights together! 💪✨
