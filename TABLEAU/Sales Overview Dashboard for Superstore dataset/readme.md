@@ -12,7 +12,7 @@ This Tableau project focuses on creating a comprehensive Sales Performance Dashb
 
 ## Preview
 
-![Sales Performance Dashboard](dashboard_preview.png)
+![Sales Performance Dashboard](https://github.com/paulet-art/Data-Dazzle-30-Days-of-Visual-Veracity/blob/main/TABLEAU/Sales%20Overview%20Dashboard%20for%20Superstore%20dataset/Dashboard%201.png)
 
 ## Data Source
 
