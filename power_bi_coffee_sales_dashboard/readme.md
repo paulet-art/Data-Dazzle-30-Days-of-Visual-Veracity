@@ -1,12 +1,12 @@
 # Project Overview
 
-## Project Name: COFFEE SALES DASHBOARD USING POWER BI
+COFFEE SALES DASHBOARD USING POWER BI
 
-[![Dashboard Image](dashboard.png)]
+![Dashboard Image](dashboard.png)
 
 ### Description
 
-The Coffew Sales Dashboard is a data visualization project developed using Power BI to analyze and present sales data, customer behavior. The project aims to provide actionable insights and facilitate decision-making processes based on the data insights derived from the dashboard.
+The Coffee Sales Dashboard is a data visualization project developed using Power BI to analyze and present sales data, customer behavior. The project aims to provide actionable insights and facilitate decision-making processes based on the data insights derived from the dashboard.
 
 ### Objectives
 
